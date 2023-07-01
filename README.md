@@ -13,12 +13,10 @@ An international e-commerce company based wants to discover key insights from th
 
     1) What was Customer Rating? And was the product delivered on time?
     2) Is Customer query is being answered?
-    3) If Product importance is high. having higest rating or being delivered on time?
+    3) Which contribute to customer high rating on a product, having higest rating or being delivered on time?
 
-
-## About Dataset
-The dataset contained 10,999 observations of 12 variables.
-The data contains the following information:
+## About Data set
+The following defined the 12 variables of the 10,999 observations in the data set:  
 
     ID: ID Number of Customers.
     
@@ -45,5 +43,5 @@ The data contains the following information:
     Reached on time: It is the target variable, where 1 Indicates that the product has NOT reached on time and 0 indicates it has reached on time.
 
 ## Acknowledgements
-Big thanks for Prachi Gopalani making this data set possible.
+Big thank to Prachi Gopalani for making this data set possible.
 

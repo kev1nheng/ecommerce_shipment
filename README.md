@@ -9,20 +9,21 @@ https://www.kaggle.com/datasets/prachi13/customer-analytics
 ## Business Case
 
 ### Context
-An international e-commerce company based wants to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company sells electronic products.
+An international e-commerce company based, XYZ International Trade inc.,  wants to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company sells electronic products.
 
     1) What was Customer Rating? And was the product delivered on time?
     2) Is Customer query is being answered?
-    3) Which contribute to customer high rating on a product, having higest rating or being delivered on time?
+    3) Which contribute to a customer high rating on a product, having higest rating or being delivered on time?
+    4) What factor determine a high Product importance?
 
 ## About Data set
 The following defined the 12 variables of the 10,999 observations in the data set:  
 
-    ID: ID Number of Customers.
+    ID: Customers unique identifier number
     
     Warehouse block: The Company have big Warehouse which is divided in to block such as A,B,C,D,E.
     
-    Mode of shipment: The Company Ships the products in multiple way such as Ship, Flight and Road.
+    Mode of shipment: The Company ships the products in multiple way such as Ship, Flight and Road.
     
     Customer care calls: The number of calls made from enquiry for enquiry of the shipment.
     
@@ -40,7 +41,8 @@ The following defined the 12 variables of the 10,999 observations in the data se
    
     Weight in gms: It is the weight in grams.
    
-    Reached on time: It is the target variable, where 1 Indicates that the product has NOT reached on time and 0 indicates it has reached on time.
+    Reached on time: 
+    It is the target variable, where 1 Indicates that the product has NOT reached on time and 0 indicates it has reached on time.
 
 ## Acknowledgements
 Big thank to Prachi Gopalani for making this data set possible.

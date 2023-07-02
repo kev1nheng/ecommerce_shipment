@@ -21,9 +21,12 @@ XYZ Multinational Trade Inc., a headquartered multinational e-commerce firm, wis
 ## About Data set
 The following defined the 12 variables of the 10,999 observations in the data set:  
 
-    ID: Customers unique identifier number
     
-    Warehouse block: The Company have big Warehouse which is divided in to block such as A,B,C,D,E.
+   
+| Variable name | Variable Type | Data Type | Nbs Observation | Information |
+| --------------| --------------| ----------|-----------------|-------------|
+| ID | Dependent | Numeric | 10,999 | Customers unique identifier number|
+| Warehouse block| Dependent | Categorical | 10,999 | The Company have big Warehouse which is divided in to block such as A,B,C,D,E. |
     
     Mode of shipment: The Company ships the products in multiple way such as Ship, Flight and Road.
     

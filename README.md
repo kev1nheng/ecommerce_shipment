@@ -11,10 +11,12 @@ https://www.kaggle.com/datasets/prachi13/customer-analytics
 ### Context
 XYZ Multinational Trade Inc., a headquartered multinational e-commerce firm, wishes to gain vital insights from its customer database. They intend to research their clients using some of the most modern machine-learning techniques. The company sells electronic goods.
 
-    1) What was Customer Rating? And was the product delivered on time?
-    2) Is Customer query is being answered?
-    3) Which contribute to a customer high rating on a product, having higest rating or being delivered on time?
-    4) What factor determine a high Product importance?
+    1) What is the relationship between the Customer Rating and the merchandise arrival time?
+    2) Is the customer's question being addressed?
+    3) Which is significant in contributing to a customer's high rating on a product,  having a history of high ratings or an on-time delivery?
+    4) What factor determines a high Product's importance?
+    (Gopalani, 2021)
+
 
 ## About Data set
 The following defined the 12 variables of the 10,999 observations in the data set:  

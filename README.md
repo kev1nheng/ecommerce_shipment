@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/prachi13/customer-analytics
 ## Business Case
 
 ### Context
-An international e-commerce company based, XYZ International Trade inc.,  wants to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company sells electronic products.
+XYZ Multinational Trade Inc., a headquartered multinational e-commerce firm, wishes to gain vital insights from its customer database. They intend to research their clients using some of the most modern machine-learning techniques. The company sells electronic goods.
 
     1) What was Customer Rating? And was the product delivered on time?
     2) Is Customer query is being answered?
